@@ -1,3 +1,4 @@
 # myfirst-demo
-my first git repsitory
+This is my first git repsitory
 Author - Om Kumar
+
